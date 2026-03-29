@@ -19,30 +19,14 @@ MegaMind is an interactive, cybersecurity awareness chatbot built with C# (.NET)
 
 ---
 
-
 ## ⚙️ Requirements
 
 - Windows (required for `System.Media.SoundPlayer` audio playback)
 - Visual Studio 2026
+- Code clearity
+- Comments in each class/file
 
 ---
-
-## 🚀 Setup & Running
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/<your-username>/MegaMind.git
-cd MegaMind
-```
-
-### 2. Build the project
-
-```bash
-dotnet build
-```
-
-### 3. Run the chatbot
 
 ##  Usage
 
@@ -60,10 +44,5 @@ Once running, you will be prompted to enter your name. After that, you can type 
 
 ##  Continuous Integration
 
-This project uses **GitHub Actions** to automatically build the solution on every push and pull request. See `.github/workflows/dotnet.yml` for the workflow configuration.
+This project uses **GitHub Actions** to automatically build the solution on every push and pull request.
 
----
-
-## 👤 Author
-
-Developed as part of a cybersecurity awareness project using C# and .NET.
