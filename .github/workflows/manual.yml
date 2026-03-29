@@ -25,10 +25,10 @@ jobs:
           dotnet-version: '8.0.x'
 
       - name: Restore dependencies
-        run: dotnet restore
+        run: dotnet restore MegaMind\MegaMind.csproj
 
       - name: Build solution
-        run: dotnet build --no-restore --configuration Release
+        run: dotnet build MegaMind\MegaMind.csproj --no-restore --configuration Release
 
       - name: Run tests (if any)
-        run: dotnet test --no-build --configuration Release --verbosity normal
+        run: dotnet test MegaMind\MegaMind.csproj --no-build --configuration Release --verbosity normal
