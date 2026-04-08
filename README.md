@@ -15,7 +15,7 @@ MegaMind is an interactive, cybersecurity awareness chatbot built with C# (.NET)
   2. How to create a strong password
   3. What is two-factor authentication (2FA)?
   4. How to recognise a secure website
-  5. Safe browsing tips
+  5. Safe browsing tips and many more.
 
 ---
 
@@ -25,6 +25,8 @@ MegaMind is an interactive, cybersecurity awareness chatbot built with C# (.NET)
 - Visual Studio 2026
 - Code clearity
 - Comments in each class/file
+- A clear video presentation of your code
+- github link
 
 ---
 
