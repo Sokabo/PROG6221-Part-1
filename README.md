@@ -51,4 +51,38 @@ This project uses **GitHub Actions** to automatically build the solution on ever
 - Restores NuGet packages (including System.Windows.Extensions)
 - Builds the project in Release mode
 - Publishes the output to a ./publish folder
+---
+## Part 2 Features (GUI Upgrade)
+- WPF Graphical User Interface replacing the console
+- Keyword recognition for cybersecurity topics (password, phishing, privacy, scam, malware and more)
+- Random responses per topic using lists — answers vary each time
+- Sentiment detection: detects worried, curious, or frustrated tone and responds empathetically
+- Memory and recall: remembers your name and favourite topic across the conversation
+- Follow-up conversation flow: type "tell me more" to continue any topic without restarting
+- Fallback error handling for unrecognised input
+
+## How to Run (Part 2)
+1. Clone the repository: git clone https://github.com/YourUsername/MegaMind.git
+2. Open `MegaMind.sln` in Visual Studio 2022
+3. Set the startup project to the WPF project
+4. Ensure `greetings.wav` is in the project folder and set to **Copy Always** in its properties
+5. Press **F5** or click **Run**
+
+## Prerequisites
+- Windows 10 or 11
+- Visual Studio 2022
+- .NET 8.0 SDK
+- `greetings.wav` must be placed in the project root folder for voice greeting to work
+
+## Screenshots
+> Add a screenshot of your running GUI here
+
+## Releases
+| Tag   | Description                                               |
+|-------|-----------------------------------------------------------|
+| v1.0  | Part 1 – Console chatbot with ASCII art and voice greeting |
+| v2.0  | Part 2 – WPF GUI, keyword recognition, random responses   |
+| v2.1  | Part 2 – Sentiment detection, memory, conversation flow   |
+
+
 
