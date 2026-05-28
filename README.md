@@ -77,6 +77,8 @@ This project uses **GitHub Actions** to automatically build the solution on ever
 ## Screenshots
 <img width="1174" height="871" alt="image" src="https://github.com/user-attachments/assets/608e96a2-b354-4ee0-8350-a7f3447efc87" />
 
+## Youtube link
+- https://youtu.be/uU4i-Mvx3JY
 
 ## Releases
 | Tag   | Description                                               |
