@@ -62,7 +62,7 @@ This project uses **GitHub Actions** to automatically build the solution on ever
 - Fallback error handling for unrecognised input
 
 ## How to Run (Part 2)
-1. Clone the repository: git clone [https://github.com/YourUsername/MegaMind.git](https://github.com/Sokabo/PROG6221-Part-1.git)
+1. Clone the repository: git clone https://github.com/Sokabo/PROG6221-Part-1.git
 2. Open `MegaMind.sln` in Visual Studio 2022
 3. Set the startup project to the WPF project
 4. Ensure `greetings.wav` is in the project folder and set to **Copy Always** in its properties
