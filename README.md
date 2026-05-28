@@ -75,7 +75,8 @@ This project uses **GitHub Actions** to automatically build the solution on ever
 - `greetings.wav` must be placed in the project root folder for voice greeting to work
 
 ## Screenshots
-> Add a screenshot of your running GUI here
+<img width="1174" height="871" alt="image" src="https://github.com/user-attachments/assets/608e96a2-b354-4ee0-8350-a7f3447efc87" />
+
 
 ## Releases
 | Tag   | Description                                               |
