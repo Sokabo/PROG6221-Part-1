@@ -43,15 +43,6 @@ Once running, you will be prompted to enter your name. After that, you can type 
 | `exit` / `quit` | Exits the chatbot |
 
 ---
-
-##  Continuous Integration
-
-This project uses **GitHub Actions** to automatically build the solution on every push and pull request.
-- Triggers on every push or pull request to main/master
-- Restores NuGet packages (including System.Windows.Extensions)
-- Builds the project in Release mode
-- Publishes the output to a ./publish folder
----
 ## Part 2 Features (GUI Upgrade)
 - WPF Graphical User Interface replacing the console
 - Keyword recognition for cybersecurity topics (password, phishing, privacy, scam, malware and more)
