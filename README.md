@@ -94,4 +94,22 @@ This project uses **GitHub Actions** to automatically build the solution on ever
 - **NLP Simulation** — flexible keyword and phrase matching so the bot understands differently worded requests
 - **Activity Log** — timestamped log of all significant actions; view the last 10 or the full history on request
 
+## Usage Examples
+ 
+| You type | What happens |
+|---|---|
+| *(your name)* | Bot greets you personally |
+| `phishing` | Bot gives a randomised phishing tip |
+| `I'm worried about malware` | Bot detects worried sentiment, responds empathetically |
+| `tell me more` | Bot gives another tip on the last topic |
+| `I'm interested in encryption` | Bot stores your favourite topic |
+| `Add a task to enable 2FA` | Task saved, bot asks about a reminder |
+| `Yes, remind me in 3 days` | Reminder set and saved to tasks.json |
+| `Remind me to update my password tomorrow` | Task + reminder added in one step |
+| `Show my tasks` | Lists all tasks with status and reminders |
+| `Mark as completed enable 2FA` | Marks that task done |
+| `Start quiz` | Begins the 12-question cybersecurity quiz |
+| `Show activity log` | Shows last 10 logged actions with timestamps |
+| `Show more log` | Shows full activity history |
+| `What can you do?` | Lists all available topics and commands |
 
