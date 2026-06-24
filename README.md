@@ -79,7 +79,7 @@ This project uses **GitHub Actions** to automatically build the solution on ever
 
 ## Youtube link
 - https://youtu.be/uU4i-Mvx3JY
-- https://youtu.be/JD5f6DU4nHc _ part 3
+
 
 ## Releases
 | Tag   | Description                                               |
@@ -88,10 +88,6 @@ This project uses **GitHub Actions** to automatically build the solution on ever
 | v2.0  | Part 2 – WPF GUI, keyword recognition, random responses   |
 | v2.1  | Part 2 – Sentiment detection, memory, conversation flow   |
 
-### Part 3 — Advanced Features
-- **Task Assistant** — add, view, complete, and delete cybersecurity tasks; set reminders with natural timeframes like "in 3 days" or "tomorrow"; tasks persist to a local JSON file
-- **Cybersecurity Quiz** — 12 mixed multiple-choice and true/false questions with immediate feedback and a final score
-- **NLP Simulation** — flexible keyword and phrase matching so the bot understands differently worded requests
-- **Activity Log** — timestamped log of all significant actions; view the last 10 or the full history on request
+
 
 
