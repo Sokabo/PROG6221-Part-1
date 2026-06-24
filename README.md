@@ -1,10 +1,10 @@
-# 🧠 MegaMind – Cybersecurity Chatbot
+# MegaMind – Cybersecurity Chatbot
 
 MegaMind is an interactive, cybersecurity awareness chatbot built with C# (.NET). It greets users by name, responds to input, and provides educational information on key cybersecurity topics through a simple menu-driven interface.
 
 ---
 
-## 📋 Features
+## Features
 
 - Personalised greeting using the user's name
 - Typewriter-style animated text output
@@ -19,7 +19,7 @@ MegaMind is an interactive, cybersecurity awareness chatbot built with C# (.NET)
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 - Windows (required for `System.Media.SoundPlayer` audio playback)
 - Visual Studio 2026
